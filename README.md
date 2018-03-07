@@ -16,7 +16,7 @@ Done.
 
 # (un)known Issues
 
-* **NOT COMPATIBLE WITH openHAB 2.1, yet!!!!!**
+* ** COMPATIBLE WITH openHAB 2.3**
 * The timestamps cannot be calculated correctly on macOS
 * RRD compresses data, so the further you go into the past the bigger gaps you get between two data points.  
 see: https://github.com/openhab/openhab1-addons/wiki/rrd4j-persistence
