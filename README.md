@@ -13,6 +13,9 @@ Start script
 
 Done.
 
+# Processing groups
+`./rest2influxdb_gr.sh <Group_Name>`
+
 
 # (un)known Issues
 
